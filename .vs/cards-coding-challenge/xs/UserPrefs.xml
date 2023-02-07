@@ -1,5 +1,44 @@
-﻿<Properties StartupConfiguration="{6F27649A-B062-49EE-84C9-9BE4D81EC820}|Default">
-  <MonoDevelop.Ide.ItemProperties.cards-test-coding-challenge FirstBuild="True" />
+﻿<Properties StartupConfiguration="{513AD78E-C70E-4467-B687-74F34B74BE2F}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.cards-test-coding-challenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="cards-coding-challenge/Program.cs" Line="52" Column="36" />
+      <File FileName="cards-test-coding-challenge/UnitTest1.cs" Line="31" Column="6" />
+      <File FileName="cards-coding-challenge/EmptyTextFile.txt" Line="35" Column="94" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cards-coding-challenge" expanded="True">
+            <Node name="cards-coding-challenge" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="README.md" selected="True" />
+            </Node>
+            <Node name="cards-test-coding-challenge" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="cards-coding-challenge" expanded="True">
+            <Node name="cards-test-coding-challenge" expanded="True">
+              <Node name="CardsTests" expanded="True">
+                <Node name="CardTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.cards-coding-challenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
