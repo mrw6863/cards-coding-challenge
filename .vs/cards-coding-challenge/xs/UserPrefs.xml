@@ -1,36 +1,18 @@
 ﻿<Properties StartupConfiguration="{513AD78E-C70E-4467-B687-74F34B74BE2F}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.cards-test-coding-challenge PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="cards-test-coding-challenge/CardsTest.cs">
     <Files>
-      <File FileName="cards-coding-challenge/Program.cs" Line="52" Column="36" />
-      <File FileName="cards-test-coding-challenge/UnitTest1.cs" Line="31" Column="6" />
-      <File FileName="cards-coding-challenge/EmptyTextFile.txt" Line="35" Column="94" />
+      <File FileName="cards-coding-challenge/CardDeck.cs" Line="17" Column="1" />
+      <File FileName="cards-test-coding-challenge/CardsTest.cs" Line="32" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="cards-coding-challenge" expanded="True">
-            <Node name="cards-coding-challenge" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-              </Node>
-              <Node name="README.md" selected="True" />
-            </Node>
+            <Node name="cards-coding-challenge" expanded="True" />
             <Node name="cards-test-coding-challenge" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="cards-coding-challenge" expanded="True">
-            <Node name="cards-test-coding-challenge" expanded="True">
-              <Node name="CardsTests" expanded="True">
-                <Node name="CardTests" expanded="True" />
-              </Node>
+              <Node name="Dependencies" expanded="True" />
+              <Node name="CardsTest.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -38,7 +20,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
