@@ -37,3 +37,13 @@ Coding Challenge from AMS Geek: Implement a Deck of Cards
     - Implmented suggested coding comment conventions following the Microsoft documentation
 - [Building and Running Tests](https://learn.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2022#build-and-run-the-test)
     - These instructions are how I built and ran my tests
+
+
+---
+# Implementation
+
+## Code
+[CardDeck](https://github.com/mrw6863/cards-coding-challenge/blob/main/cards-coding-challenge/CardDeck.cs)
+
+#Tests
+[CardTests](https://github.com/mrw6863/cards-coding-challenge/blob/main/cards-test-coding-challenge/CardsTest.cs)
