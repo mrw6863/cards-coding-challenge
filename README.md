@@ -1,4 +1,4 @@
-# poker-coding-challenge
+# cards-coding-challenge
 Coding Challenge from AMS Geek: Implement a Deck of Cards
 
 --- 
