@@ -1,0 +1,15 @@
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/bin/Debug/net7.0/cards-coding-challenge
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/bin/Debug/net7.0/cards-coding-challenge.deps.json
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/bin/Debug/net7.0/cards-coding-challenge.runtimeconfig.json
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/bin/Debug/net7.0/cards-coding-challenge.dll
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/bin/Debug/net7.0/cards-coding-challenge.pdb
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/cards-coding-challenge.csproj.AssemblyReference.cache
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/cards-coding-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/cards-coding-challenge.AssemblyInfoInputs.cache
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/cards-coding-challenge.AssemblyInfo.cs
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/cards-coding-challenge.csproj.CoreCompileInputs.cache
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/cards-coding-challenge.dll
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/refint/cards-coding-challenge.dll
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/cards-coding-challenge.pdb
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/cards-coding-challenge.genruntimeconfig.cache
+/Users/morganwest/Projects/cards-coding-challenge/cards-coding-challenge/obj/Debug/net7.0/ref/cards-coding-challenge.dll

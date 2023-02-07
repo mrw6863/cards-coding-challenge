@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cards-coding-challenge/1.0.0": {
+        "runtime": {
+          "cards-coding-challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cards-coding-challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
