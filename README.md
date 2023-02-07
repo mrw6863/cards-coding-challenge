@@ -45,5 +45,5 @@ Coding Challenge from AMS Geek: Implement a Deck of Cards
 ## Code
 [CardDeck](https://github.com/mrw6863/cards-coding-challenge/blob/main/cards-coding-challenge/CardDeck.cs)
 
-#Tests
+## Tests
 [CardTests](https://github.com/mrw6863/cards-coding-challenge/blob/main/cards-test-coding-challenge/CardsTest.cs)
